@@ -2,11 +2,7 @@ html,
 body {
   height: 100%;
   box-sizing: border-box;
-}
-
-body {
-  box-sizing: border-box;
-}
+} 
 
 .font-fredoka {
   font-family: "Fredoka", sans-serif;
